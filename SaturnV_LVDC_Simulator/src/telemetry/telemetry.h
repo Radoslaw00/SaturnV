@@ -1,0 +1,7 @@
+#ifndef TELEMETRY_H
+#define TELEMETRY_H
+
+void telemetry_init();
+void telemetry_update();
+
+#endif
