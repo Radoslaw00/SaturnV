@@ -1,9 +1,9 @@
 @echo off
-echo Compiling Saturn V LVDC Simulator...
+echo Compiling Saturn V LVDC Simulator (C/ASM)...
 
 if not exist build mkdir build
 
-g++ -std=c++17 -Isrc src\main.cpp -o build\LVDC_Simulator.exe
+gcc -std=c11 -Isrc src\main.c src\guidance\guidance.c src\navigation\navigation.c src\control_loops\control_loops.c src\flight_plan\flight_plan.c src\telemetry\telemetry.c src\utils\math_utils.c src\utils\io_utils.c -o build\LVDC_Simulator.exe
 
 if %ERRORLEVEL% EQU 0 (
     echo Compilation Successful.
