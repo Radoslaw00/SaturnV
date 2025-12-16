@@ -1,0 +1,15 @@
+C:\Users\radoslaw\Desktop\SaturnV\SaturnV_LVDC_Simulator\src\ui\windows_gui\bin\Debug\net8.0\LVDC_Dashboard.exe
+C:\Users\radoslaw\Desktop\SaturnV\SaturnV_LVDC_Simulator\src\ui\windows_gui\bin\Debug\net8.0\LVDC_Dashboard.deps.json
+C:\Users\radoslaw\Desktop\SaturnV\SaturnV_LVDC_Simulator\src\ui\windows_gui\bin\Debug\net8.0\LVDC_Dashboard.runtimeconfig.json
+C:\Users\radoslaw\Desktop\SaturnV\SaturnV_LVDC_Simulator\src\ui\windows_gui\bin\Debug\net8.0\LVDC_Dashboard.dll
+C:\Users\radoslaw\Desktop\SaturnV\SaturnV_LVDC_Simulator\src\ui\windows_gui\bin\Debug\net8.0\LVDC_Dashboard.pdb
+C:\Users\radoslaw\Desktop\SaturnV\SaturnV_LVDC_Simulator\src\ui\windows_gui\obj\Debug\net8.0\LVDC_Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radoslaw\Desktop\SaturnV\SaturnV_LVDC_Simulator\src\ui\windows_gui\obj\Debug\net8.0\LVDC_Dashboard.AssemblyInfoInputs.cache
+C:\Users\radoslaw\Desktop\SaturnV\SaturnV_LVDC_Simulator\src\ui\windows_gui\obj\Debug\net8.0\LVDC_Dashboard.AssemblyInfo.cs
+C:\Users\radoslaw\Desktop\SaturnV\SaturnV_LVDC_Simulator\src\ui\windows_gui\obj\Debug\net8.0\LVDC_Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\radoslaw\Desktop\SaturnV\SaturnV_LVDC_Simulator\src\ui\windows_gui\obj\Debug\net8.0\LVDC_Dashboard.sourcelink.json
+C:\Users\radoslaw\Desktop\SaturnV\SaturnV_LVDC_Simulator\src\ui\windows_gui\obj\Debug\net8.0\LVDC_Dashboard.dll
+C:\Users\radoslaw\Desktop\SaturnV\SaturnV_LVDC_Simulator\src\ui\windows_gui\obj\Debug\net8.0\refint\LVDC_Dashboard.dll
+C:\Users\radoslaw\Desktop\SaturnV\SaturnV_LVDC_Simulator\src\ui\windows_gui\obj\Debug\net8.0\LVDC_Dashboard.pdb
+C:\Users\radoslaw\Desktop\SaturnV\SaturnV_LVDC_Simulator\src\ui\windows_gui\obj\Debug\net8.0\LVDC_Dashboard.genruntimeconfig.cache
+C:\Users\radoslaw\Desktop\SaturnV\SaturnV_LVDC_Simulator\src\ui\windows_gui\obj\Debug\net8.0\ref\LVDC_Dashboard.dll

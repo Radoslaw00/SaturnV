@@ -1,0 +1,3 @@
+@echo off
+echo Starting Saturn V LVDC Dashboard...
+dotnet run --project src\ui\windows_gui\LVDC_Dashboard.csproj
