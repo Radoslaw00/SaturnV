@@ -1,0 +1,2 @@
+Now we have 2 big modules that are interconnected but visibily separate
+Saturn V LVDC - Hardware (Computer = CPU, RAM) + (TODO: /src (the software of the saturn v hardware to control the "rocket"
