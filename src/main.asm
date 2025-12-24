@@ -12,3 +12,5 @@ _start:
 mov eax, 1        ; sys_exit
 mov ebx, 0        ; return code 0
 int 0x80
+
+@WINDOWS NT 10.0
